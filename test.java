@@ -51,24 +51,24 @@
 
 // }
 
-public class test {
+// public class test {
 
-    public static void main(String arg[]) {
+//     public static void main(String arg[]) {
   
-       int i;
+//        int i;
   
-       for (i = 1; i <= 12; i += 2) {
+//        for (i = 1; i <= 12; i += 2) {
   
-          if (i == 8) {
+//           if (i == 8) {
   
-           System.out.println(i);
+//            System.out.println(i);
   
-          break;
+//           break;
   
-         }
+//          }
   
-       }
+//        }
   
-     }
+//      }
   
-  }
+//   }
